@@ -52,7 +52,7 @@ Features (MVP)
 
 - Deployment: Vercel / Netlify
 
-
+```text
 special-moments/
 │
 ├── public/
@@ -86,3 +86,4 @@ special-moments/
 ├── postcss.config.js
 ├── README.md                  # Your polished README
 └── next.config.js             # Next.js config (with PWA support)
+
